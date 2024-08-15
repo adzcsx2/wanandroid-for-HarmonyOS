@@ -1,0 +1,38 @@
+{
+  "UniformDataTypeDeclarations": [
+    {
+      "TypeId": "com.example.utd1.A",
+      "BelongingToTypes": [
+        "general.object"
+      ],
+      "FilenameExtensions": [
+        ".mydocument",
+        ".mydoc"
+      ],
+      "MIMETypes": [
+        "application/my-document",
+        "application/my-doc"
+      ],
+      "Description": "My document.",
+      "ReferenceURL": "https://www.mycompany.com/my-document"
+    }
+  ],
+  "ReferenceUniformDataTypeDeclarations": [
+    {
+      "TypeId": "com.example.utd2.B",
+      "BelongingToTypes": [
+        "general.object"
+      ],
+      "FilenameExtensions": [
+        ".otherdocument",
+        ".otherdoc"
+      ],
+      "MIMETypes": [
+        "application/other-document",
+        "application/other-doc"
+      ],
+      "Description": "Other document.",
+      "ReferenceURL": "https://www.othercompany.com/other-document"
+    }
+  ]
+}
